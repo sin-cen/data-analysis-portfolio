@@ -41,6 +41,29 @@ Python(pandas, matplotlib, seaborn)을 사용해 데이터를 분석·시각화�
 
 ---
 
+## Main Project  2
+머신러닝 분류 군집분석
+### 🟠 Cluster 0 | 성숙·감소형 핵심 소비
+#- 고비중이나 최근 감소 추세
+#- **전략**: 프리미엄화, 디지털 전환, 점포 고도화<img width="971" height="559" alt="image" src="https://github.com/user-attachments/assets/d3b1cf64-44d8-46fc-96f2-bfdac7b5da17" />
+
+#- **정책 키워드**: 양적 확장 → 질적 전환
+
+#---
+
+### 🟢 Cluster 1 | 성장형 트렌드 소비 ⭐<img width="767" height="516" alt="image" src="https://github.com/user-attachments/assets/824a64a7-4e69-44f2-9dae-486b441fc20d" />
+
+#- 소비 구조 변화를 주도
+#- **전략**: 문화·여가·체험형 상권 집중 육성
+#- **정책 키워드**: 미래 성장 동력
+
+#---
+
+### 🔵 Cluster 2 | 안정·정체형 소비
+#- 변화 적음, 생활 안정 기여
+#- **전략**: 현상 유지 + 효율 개선
+#- **정책 키워드**: 생활 기반 유지
+#""")
 ## Sub Projects
 
 ### SQL 기반 데이터 집계
