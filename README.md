@@ -45,28 +45,32 @@ Python(pandas, matplotlib, seaborn)을 사용해 데이터를 분석·시각화�
 머신러닝 분류 군집분석 용인시 민간 카드 소비 데이터 2022 2025 소비패턴분석
 <img width="971" height="559" alt="image" src="https://github.com/user-attachments/assets/26f5eab5-5d14-49b4-8bf9-6eb3c48403d4" />
 <img width="767" height="516" alt="image" src="https://github.com/user-attachments/assets/5b1dab37-653d-4d5d-ae28-68fa75cd8a7a" />
-### 🟠 Cluster 0 | 성숙·감소형 핵심 소비
-#- 고비중이나 최근 감소 추세
-#- **전략**: 프리미엄화, 디지털 전환, 점포 고도화
+## 🔹 사용자 행동 기반 군집 분석
 
-#- **정책 키워드**: 양적 확장 → 질적 전환
+### 📌 분석 목적
+- 단일 평균 지표로는 설명되지 않는 사용자 행동 패턴을 파악하기 위해
+- 구매 전환, 체류 시간, 소비 성향을 기준으로 사용자 세그먼트 정의
 
-#---
+### 📊 사용 데이터
+- 방문 빈도
+- 평균 체류 시간
+- 구매 전환 여부
+- 평균 구매 금액
 
-### 🟢 Cluster 1 | 성장형 트렌드 소비 ⭐
+### 🔍 분석 방법
+- 데이터 표준화 후 K-Means 군집 분석 수행
+- Elbow Method를 통해 최적 군집 수 선정
 
-#- 소비 구조 변화를 주도
-#- **전략**: 문화·여가·체험형 상권 집중 육성
-#- **정책 키워드**: 미래 성장 동력
+### 🧩 군집 결과 해석
+- Cluster 0: 체류시간은 길지만 구매 전환이 낮은 탐색형 사용자
+- Cluster 1: 체류시간은 짧지만 구매 전환율이 높은 즉시 구매형 사용자
+- Cluster 2: 체류시간과 구매 금액이 모두 높은 핵심 수익 사용자
 
-#---
+### 💡 비즈니스 시사점
+- Cluster 0: 구매 유도 UI/혜택 실험 대상
+- Cluster 1: 간편 결제·즉시 할인 노출 강화
+- Cluster 2: 멤버십/재구매 유도 타겟
 
-### 🔵 Cluster 2 | 안정·정체형 소비
-#- 변화 적음, 생활 안정 기여
-#- **전략**: 현상 유지 + 효율 개선
-#- **정책 키워드**: 생활 기반 유지
-#""")
-## Sub Projects
 
 ### SQL 기반 데이터 집계
 - JOIN, GROUP BY, HAVING을 활용한 지표 산출<img width="888" height="583" alt="image" src="https://github.com/user-attachments/assets/aff9bdc5-8d08-4a6b-8910-15b43356ae7e" />
