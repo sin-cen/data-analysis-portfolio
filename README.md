@@ -26,7 +26,9 @@ Python(pandas, matplotlib, seaborn)을 사용해 데이터를 분석·시각화�
 - 기기별 방문자 수, 구매자 수, 구매 전환율 집계
 - 기기별 총매출 및 평균 주문 금액 비교
 - 체류 시간과 구매 여부의 관계 분석
-- SQL로 집계한 결과를 Python으로 시각화하여 비교
+- SQL로 집계한 결과를 Python으로 시각화하여 비교<img width="954" height="312" alt="image" src="https://github.com/user-attachments/assets/99e61089-cbe5-43d8-b550-729b404acf0d" />
+
+
 
 #### 분석 결과
 - 모바일은 구매 전환율은 상대적으로 높지만 평균 주문 금액이 낮아 총매출 기여가 크지 않음
@@ -42,7 +44,8 @@ Python(pandas, matplotlib, seaborn)을 사용해 데이터를 분석·시각화�
 ## Sub Projects
 
 ### SQL 기반 데이터 집계
-- JOIN, GROUP BY, HAVING을 활용한 지표 산출
+- JOIN, GROUP BY, HAVING을 활용한 지표 산출<img width="888" height="583" alt="image" src="https://github.com/user-attachments/assets/aff9bdc5-8d08-4a6b-8910-15b43356ae7e" />
+
 - 실무에서 자주 사용하는 집계 유형 연습
 
 ### Python 데이터 전처리 및 시각화
