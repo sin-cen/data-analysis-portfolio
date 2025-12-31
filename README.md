@@ -42,7 +42,7 @@ Python(pandas, matplotlib, seaborn)을 사용해 데이터를 분석·시각화�
 ---
 
 ## Main Project  2
-머신러닝 분류 군집분석
+머신러닝 분류 군집분석 용인시 민간 카드 소비 데이터 2022 2025 소비패턴분석
 <img width="971" height="559" alt="image" src="https://github.com/user-attachments/assets/26f5eab5-5d14-49b4-8bf9-6eb3c48403d4" />
 <img width="767" height="516" alt="image" src="https://github.com/user-attachments/assets/5b1dab37-653d-4d5d-ae28-68fa75cd8a7a" />
 ### 🟠 Cluster 0 | 성숙·감소형 핵심 소비
